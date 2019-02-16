@@ -1,0 +1,203 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/54/ace00878a52d9702.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1711/df/86cbcfc533330d02.png",
+        "desc": "滑雪季"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1710/a6/83f636bd75ae6302.png",
+        "desc": "泡温泉"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/35/2640cab202c41b02.png",
+        "desc": "动植园"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/d0/e09575e66f4aa402.png",
+        "desc": "游乐园"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/59/569d3c096e542502.png",
+        "desc": "必游榜单"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/17/4bd370f3eb1acd02.png",
+        "desc": "演出"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/7f/b1ea3c8c7fb6db02.png",
+        "desc": "城市观光"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/a9/ffc620dbda9b9c02.png",
+        "desc": "一日游"
+      }],
+    "WeekList":[{
+      "id":"0001",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+      "desc":"东部华侨城大峡谷",
+      "price":"128"
+    },{
+      "id":"0002",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_140x140_abb362a7.jpg",
+      "desc":"世界之窗",
+      "price":"128"
+    },{
+      "id":"0003",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
+      "desc":"深圳小梅沙海洋世界",
+      "price":"254"
+    },{
+      "id":"0004",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_140x140_1c863e5c.jpg",
+      "desc":"深圳深蓝秘境欢乐水秀",
+      "price":"154"
+    },{
+      "id":"0005",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
+      "desc":"动植物园",
+      "price":"128"
+    },{
+      "id":"0006",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1901/a6/a6569d2d53c6c637a3.water.jpg_250x250_7f09d252.jpg",
+      "desc":"泡温泉",
+      "price":"524"
+    },{
+      "id":"0007",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1809/87/8796d4dfe0366858a3.water.png_250x250_c747671a.png",
+      "desc":"年终大促",
+      "price":"128"
+    },{
+      "id":"0008",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1812/49/4946928832260941a3.water.jpg_250x250_3fc084fc.jpg",
+      "desc":"一日游",
+      "price":"128"
+    },{
+      "id":"0009",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1902/b4/b4f8a6ac1597c5ada3.water.jpg_250x250_25786a66.jpg",
+      "desc":"东部华侨城",
+      "price":"128"
+    },{
+      "id":"0010",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/201307/18/f25ac054eec3804dc8d65eac.jpg_250x250_b9ebca61.jpg",
+      "desc":"溜娃儿",
+      "price":"128"
+    }],
+    "likeList": [{
+      "id": "0001",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1902/b4/b4f8a6ac1597c5ada3.water.jpg_250x250_25786a66.jpg",
+      "title": "东部华侨城大峡谷",
+      "star": "2151",
+      "price":"255",
+      "addr":"东部华侨城大峡谷"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201307/18/f25ac054eec3804dc8d65eac.jpg_250x250_b9ebca61.jpg",
+      "title": "阿尔卑斯滑雪场",
+      "star": "2158",
+      "price":"255",
+      "addr":"世界之窗"
+    }, {
+      "id": "0003",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1812/49/4946928832260941a3.water.jpg_250x250_3fc084fc.jpg",
+      "title": "青青世界",
+      "star": "1056",
+      "price":"255",
+      "addr":"南山区"
+    }, {
+      "id": "0004",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
+      "title": "深圳深蓝秘境欢乐水秀",
+      "star": "2151",
+      "price":"864",
+      "addr":"南山区"
+    }, {
+      "id": "0005",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_140x140_1c863e5c.jpg",
+      "title": "华侨城",
+      "star": "254",
+      "price":"255",
+      "addr":"南山区"
+    }, {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
+      "title": "温都水城养生馆",
+      "star": "452",
+      "price":"255",
+      "addr":"东部华侨城大峡谷"
+    }, {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/a6/a6569d2d53c6c637a3.water.jpg_250x250_7f09d252.jpg",
+      "title": "华侨城",
+      "star": "2151",
+      "price":"255",
+      "addr":"东部华侨城大峡谷"
+    }, {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1809/87/8796d4dfe0366858a3.water.png_250x250_c747671a.png",
+      "title": "南山区深圳深蓝秘境欢乐水秀",
+      "star": "2151",
+      "price":"255",
+      "addr":"小梅沙"
+    }, {
+      "id": "0009",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1812/49/4946928832260941a3.water.jpg_250x250_3fc084fc.jpg",
+      "title": "温都水城养生馆",
+      "star": "2151",
+      "price":"255",
+      "addr":"小梅沙"
+    }, {
+      "id": "0010",
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
+      "title": "深圳小梅沙海洋世界",
+      "star": "2541",
+      "price":"125",
+      "addr":"深圳小梅沙"
+    }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+      "title": "北京温泉排行榜",
+      "desc": "细数北京温泉，温暖你的冬天"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+      "title": "北京必游TOP10",
+      "desc": "来北京必去的景点非这些地方莫属"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg",
+      "title": "寻找北京的皇城范儿",
+      "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b9/f9d8ace21c06.jpg_r_640x214_1f239a81.jpg",
+      "title": "学生最爱的博物馆",
+      "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1602/88/bf120edeaea383.jpg_r_640x214_f8591f7b.jpg",
+      "title": "儿童剧场，孩子的乐园",
+      "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+    }]
+  }
+}
